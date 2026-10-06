@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Expo & Build outputs
+.expo/
+dist/
+web-build/
+*.apk
+*.aab
+*.ipa
+
+# Environment variables & Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.keystore
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDEs & Code Editors
+.vscode/
+.idea/
+*.swp
+*.swo
