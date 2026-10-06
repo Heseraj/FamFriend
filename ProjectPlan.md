@@ -1,6 +1,6 @@
 # FamFriend — Project Plan
 
-Status: **DRAFT for review** (2026-10-05). No code is written until you approve this plan.
+Status: **APPROVED** (2026-10-05). Work proceeds milestone by milestone; the user runs all git commands (stage/commit/branch/push) personally.
 Source of truth for decisions: `LessonLearned.md` (LL#) and `Questions Asked.md` (QA#). This plan cites LL numbers instead of repeating rationale.
 
 ---
